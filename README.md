@@ -48,7 +48,7 @@
     <img 
         align="left" 
         alt="GitHub Stats" 
-        height="100" 
+        height="120" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomayan&theme=dark&layout=compact&langs_count=9" 
     />
 </p>
