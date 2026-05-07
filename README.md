@@ -1,3 +1,3 @@
-### Caio Mayan Costa A. de Sousa
+Software Developer
 
-<img src="https://skillicons.dev/icons?i=astro,ts,nodejs,react,nextjs,java,spring,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,postgres&theme=light" />
