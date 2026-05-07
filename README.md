@@ -1,3 +1,3 @@
 Software Developer
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,postgres&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,postgres&theme=dark" />
